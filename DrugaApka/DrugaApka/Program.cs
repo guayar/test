@@ -10,7 +10,7 @@ namespace DrugaApka
     {
         static void Main(string[] args)
         {
-            Console.Write("nacisnij klawisz");
+            Console.WriteLine("nacisnij klawisz");
             Console.ReadKey();
         }
     }
